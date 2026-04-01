@@ -1,6 +1,11 @@
 # 📉 Telecom Customer Churn Analysis
 ### Business Intelligence & Root Cause Analysis using Python
 
+## 📊 Dataset Information
+The dataset used in this project is the **Telco Customer Churn** dataset, originally sourced from **IBM Sample Data Sets**. 
+* **Source:** [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+* **Size:** 7,043 rows with 21 customer features.
+
 ## 🌟 Executive Summary
 This project analyzes a dataset of 7,043 customers to identify why users are leaving the service (Churn). I discovered that the company is losing **$139,130.85 per month** in revenue, primarily driven by Month-to-Month contracts and Fiber Optic users.
 
